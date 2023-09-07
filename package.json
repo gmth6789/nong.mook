@@ -8,7 +8,9 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "vue": "^3.3.4"
+    "firebase": "^10.3.1",
+    "vue": "^3.3.4",
+    "vuex": "^4.1.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.4.0",
