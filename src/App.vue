@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Thenav from './components/Thenav.vue'
 
 export default {
   name: 'App',
