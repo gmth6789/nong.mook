@@ -6,10 +6,7 @@
 
 <script>
 export default {
-  name: 'Thenav',
-  props: {
-    msg: String
-  }
+  name: 'Thenav'
 }
 </script>
 
